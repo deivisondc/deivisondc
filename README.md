@@ -24,6 +24,7 @@
 #### Experience with:
 <div style="display: inline_block">
   &nbsp;&nbsp;&nbsp;❯ Frontend | 
+  <img align="center" alt="React Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="VueJS Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
   
